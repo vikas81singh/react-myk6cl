@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@salesforce-ux/design-system": "^2.14.3",
+    "@salesforce/design-system-react": "^0.10.35",
+    "postcss": ">=7.x",
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
